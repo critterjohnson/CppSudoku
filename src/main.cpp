@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 
-#include "grid.h"
-#include "textcontroller.h"
+#include "sudoku/grid.h"
+#include "sudoku/textcontroller.h"
 
 using namespace std;
 
